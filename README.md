@@ -2,7 +2,6 @@
 
 <h1 align="center"> 🤖 <br />
 AI Club IGDTUW </h1>
-<h3 align="center"> 6th June-11 July</h3>
 
 
 # ✒️ Cheatsheets
